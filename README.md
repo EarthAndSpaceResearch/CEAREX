@@ -1,3 +1,3 @@
 # CEAREX
 
-Scripts for accessing Cearex data
+Scripts for accessing CEAREX data
